@@ -1,0 +1,17 @@
+interesting variables
+     PClass
+     Sex
+     Age (contains null)
+     SibSp
+     Parch
+     Name
+     survival based on embarkment 
+     cabin
+
+
+new variabes required 
+    initials from Name
+    cabin alphabet
+    
+
+
