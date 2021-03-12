@@ -1,17 +1,18 @@
 interesting variables
      PClass
      Sex
-     Age (contains null)
+     Age
      SibSp
      Parch
      Name
-     survival based on embarkment 
-     cabin
+     Embarked
+     cabinALpha
+     Title
 
 
-new variabes required 
-    initials from Name
-    cabin alphabet
-    
+Problems to be fixed
+     Embarked has null values
+     CabinAlpha has null values
+
 
 
