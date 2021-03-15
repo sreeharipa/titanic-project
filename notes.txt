@@ -8,11 +8,9 @@ interesting variables
      Embarked
      cabinALpha
      Title
+     HaveCabin
 
 
-Problems to be fixed
-     Embarked has null values
-     CabinAlpha has null values
 
 
 
