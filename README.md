@@ -2,4 +2,4 @@
 
 ## resources
 
-1. https://www.kaggle.com/kimjunhyeon/eda-to-prediction-dietanic-junhyeon
+1. https://www.kaggle.com/ash316/eda-to-prediction-dietanic
